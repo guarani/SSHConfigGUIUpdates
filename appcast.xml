@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+  <channel>
+    <title>SSHConfigGUI Updates</title>
+    <link>https://yourdomain.com/appcast.xml</link>
+    <description>Update feed for SSHConfigGUI</description>
+    <language>en</language>
+
+    <item>
+      <title>Version 1.0.2</title>
+      <sparkle:releaseNotesLink>https://yourdomain.com/release-notes/1.0.2.html</sparkle:releaseNotesLink>
+      <pubDate>Mon, 27 May 2025 12:00:00 +0000</pubDate>
+      <enclosure
+        url="https://yourdomain.com/downloads/YourApp.zip"
+        sparkle:version="1.0.2"
+        sparkle:shortVersionString="1.0.2"
+        sparkle:edSignature="abc123..."
+        length="12345678"
+        type="application/octet-stream"/>
+    </item>
+  </channel>
+</rss>
+
+
