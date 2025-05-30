@@ -6,19 +6,19 @@
   <channel>
     <title>Sheldon Updates</title>
     <link>https://silver-piroshki-1764f8.netlify.app/appcast.xml</link>
-    <description>Update feed for Sheldon SSH Config Editor</description>
+    <description>Update feed for Sheldon</description>
     <language>en</language>
 
     <item>
       <title>Version 0.1.0</title>
       <sparkle:releaseNotesLink>https://silver-piroshki-1764f8.netlify.app/release-notes/0.1.0.html</sparkle:releaseNotesLink>
-      <pubDate>Fri, 30 May 2025 21:30:00 +0000</pubDate>
+      <pubDate>Fri, 30 May 2025 23:33:00 +0000</pubDate>
       <enclosure
-        url="https://silver-piroshki-1764f8.netlify.app/SSHConfigGUI-0.1.0.zip"
+        url="https://silver-piroshki-1764f8.netlify.app/SSHConfigGUI-0.1.0-2.zip"
         sparkle:version="0.1.0"
         sparkle:shortVersionString="0.1.0"
-        sparkle:edSignature="L6r0wDk54rqV6aHqaBoJj5Ttd++99Oj0qHWeOqRIcTV94yyQXzVMn3FUuWdX38x955g7KhTfnYkiMD01kisvCA=="
-        length="616410"
+        sparkle:edSignature="fDN21dBnX9AioxbpaSk/m1pJh4s5k+A/1AA3T/HLEckz5aL49kjGfjfYpXNiF6jlBm2xuAfmKrYORDmyWNNmBQ=="
+        length="1565588"
         type="application/octet-stream"/>
     </item>
   </channel>
